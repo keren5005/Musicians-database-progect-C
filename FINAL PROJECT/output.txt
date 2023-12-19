@@ -1,0 +1,5 @@
+Onice 27 02 2023 21:00: Julia Anna - Guitar (2300), Matteo Finn - Guitar (2000), Leo Julus Hugo - Clarinet (795), Sophia Von Schleuzinger - Piano (6000). Total cost: 11095.
+Could not find musicians for the concert Relics
+Rails 11 04 2023 19:30: Matteo Finn - Guitar (2000), Julia Anna - Violin (4000), Sophia Von Schleuzinger - Violin (2450), Leo Julus Hugo - Clarinet (795), Don Fernando DIbarra Figueroa Mascarenes Lampourdos Souza - Accordion (1900), Sacha Branco - Accordion (1300). Total cost: 12445.
+Could not find musicians for the concert Daemmerung
+Could not find musicians for the concert Zwitterion
